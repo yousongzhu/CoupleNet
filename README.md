@@ -1,2 +1,2 @@
 # CoupleNet
-Code for training CoupleNet
+Coming soon
