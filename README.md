@@ -1,5 +1,5 @@
 # CoupleNet
-=======================================
+====
 CoupleNet: Coupling Global Structure with Local Parts for Object Detection <br>
 
 The Code is modified from [py-R-FCN] (https://github.com/YuwenXiong/py-R-FCN), Please follow the procudure in [py-R-FCN] (https://github.com/YuwenXiong/py-R-FCN) to prepare the training data and testing data.<br>
