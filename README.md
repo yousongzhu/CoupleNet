@@ -18,3 +18,15 @@ CoupleNet, ResNet-101 | VOC 07++12 | VOC 12 test | 80.4% | 122
 CoupleNet, ResNet-101 | COCO 2014 trainval | COCO test dev | 34.4% | 122
 
 [VOC 0712 model (trained on VOC 07+12, mAP 81.7%)](https://pan.baidu.com/s/1eSF1EYu)
+
+### Citing CoupleNet
+
+If you find CoupleNet useful in your research, please consider citing:
+
+    @article{zhu2017couplenet,
+     title={CoupleNet: Coupling Global Structure with Local Parts for Object Detection},
+     author={Zhu, Yousong and Zhao, Chaoyang and Wang, Jinqiao and Zhao, Xu and Wu, Yi and Lu, Hanqing},
+     journal={arXiv preprint arXiv:1708.02863},
+     year={2017}
+     }
+ 
